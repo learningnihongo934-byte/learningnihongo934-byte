@@ -15,6 +15,7 @@ High school developer in Texas. I build AI software, a browser, developer tools,
 | **[Animedle](https://playanimedle.web.app)** | Guess the anime character. Daily, ranked, 1v1 |
 | **[AniRadar](https://aniradar.web.app)** | Find your next anime obsession |
 | **[VRK](https://virat-kaukuntla.web.app/projects/vrk)** | A private browser with ad, tracker and scam blocking, plus Tor tabs |
+| **[Pong Rivals](https://pong-rivals-vk.web.app)** · [page](https://virat-kaukuntla.web.app/projects/pong-rivals) | Pong with 15 gacha rivals, skills, ultimates and online ranked (public beta) |
 | **[re://battlegrounds](https://virat-kaukuntla.web.app/projects/rebg)** | A Tokyo Ghoul battleground on Roblox (beta) |
 
 ## Find me
