@@ -10,6 +10,7 @@ High school developer in Texas. I build AI software, a browser, developer tools,
 |---|---|
 | **[Mnemo](https://mnemoai.web.app)** · [code](https://github.com/learningnihongo934-byte/mnemo) | Raise your own AI from scratch: it trains its own language model on your computer and grows from 12M to 1B+ parameters |
 | **[Chroni](https://chroni.web.app)** · [code](https://github.com/learningnihongo934-byte/chroni) | Use Claude Code longer on the same plan by trimming wasted tokens |
+| **[Skelr](https://skelr.web.app)** · [page](https://virat-kaukuntla.web.app/projects/skelr) | Paste a GitHub repo and find out if it was copied, with a confidence score and side-by-side evidence |
 | **[Strata](https://github.com/learningnihongo934-byte/Strata)** | Play Windows games on your Mac, for free |
 | **[Animedle](https://playanimedle.web.app)** | Guess the anime character. Daily, ranked, 1v1 |
 | **[AniRadar](https://aniradar.web.app)** | Find your next anime obsession |
