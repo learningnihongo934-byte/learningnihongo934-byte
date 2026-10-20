@@ -22,3 +22,7 @@ High school developer in Texas. I build AI software, a browser, developer tools,
 ## Find me
 
 [Website](https://virat-kaukuntla.web.app) · [About](https://virat-kaukuntla.web.app/about) · [TikTok @viratk_](https://www.tiktok.com/@viratk_) · [Reddit u/Arigat0__](https://www.reddit.com/user/Arigat0__) · [Discord](https://discord.com/users/1423867844000747551)
+
+## ✍️ Latest Writing
+*   **[Medium Article]** [Building in Public: Why I'm Developing Projects and Games From My High School Desk](https://medium.com/@learningnihongo934/building-in-public-why-im-developing-projects-and-games-from-my-high-school-desk-aacd9e4c938d) — A deep dive into my software architecture pipeline, local neural simulations (Mnemo), and building multiplayer Firebase architectures.
+
