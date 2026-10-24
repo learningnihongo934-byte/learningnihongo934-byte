@@ -17,7 +17,7 @@ High school developer in Texas. I build AI software, a browser, developer tools,
 | **[VRK](https://rennko.tech/projects/vrk)** | A private browser with ad, tracker and scam blocking, plus Tor tabs |
 | **[Pong Rivals](https://pong-rivals-vk.web.app)** · [page](https://rennko.tech/projects/pong-rivals) | Pong with a twist (public beta) |
 | **[rat.audio](https://rat-audio.web.app)** · [page](https://rennko.tech/projects/rat-audio) | Paste a script and hear it narrated in seconds by Kokoro-82M, running right in your browser (public beta) |
-| **[Pixeter](https://pixeter.web.app)** · [page](https://rennko.tech/projects/pixeter) | Pixel art and animation studio in your browser. Claude Code can draw with you, live |
+| **[Pixeter](https://pixeter.app)** · [page](https://rennko.tech/projects/pixeter) | Pixel art and animation studio in your browser. Claude Code can draw with you, live |
 | **[re://battlegrounds](https://rennko.tech/projects/rebg)** | A Tokyo Ghoul battleground on Roblox (beta) |
 
 ## Find me
