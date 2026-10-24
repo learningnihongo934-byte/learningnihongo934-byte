@@ -2,7 +2,7 @@
 
 High school developer in Texas. I build AI software, a browser, developer tools, games and Mac apps.
 
-🌐 **[virat-kaukuntla.web.app](https://rennko.tech)**: every project there is playable
+🌐 **[rennko.tech](https://rennko.tech)**: all my projects in one place
 
 ## Projects
 
