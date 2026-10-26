@@ -1,4 +1,4 @@
-# Hi, I'm Virat Kaukuntla 👋
+# Hi, I'm Virat Reddy Kaukuntla 👋
 
 High school developer in Texas. I build AI software, a browser, developer tools, games and Mac apps.
 
