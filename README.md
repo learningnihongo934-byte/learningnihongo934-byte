@@ -18,6 +18,7 @@ High school developer in Texas. I build AI software, a browser, developer tools,
 | **[Pong Rivals](https://pong-rivals-vk.web.app)** · [page](https://rennko.tech/projects/pong-rivals) | Pong with a twist (public beta) |
 | **[rat.audio](https://rat-audio.web.app)** · [page](https://rennko.tech/projects/rat-audio) | Paste a script and hear it narrated in seconds by Kokoro-82M, running right in your browser (public beta) |
 | **[Pixeter](https://pixeter.app)** · [page](https://rennko.tech/projects/pixeter) | Pixel art and animation studio in your browser. Claude Code can draw with you, live |
+| **[Porthole](https://github.com/learningnihongo934-byte/porthole)** · [page](https://rennko.tech/projects/porthole) | Let a normal ChatGPT chat use your Mac's files and terminal, like Claude Code. You approve every change |
 | **[DripWriter](https://learningnihongo934-byte.github.io/dripwriter/)** · [code](https://github.com/learningnihongo934-byte/dripwriter) | Types your text into any app, one keystroke at a time. Background typing, mash mode, schedules and breaks |
 | **[Balorge](https://balorge.web.app)** · [page](https://rennko.tech/projects/balorge) | Build a ball. Forge a weapon. Beat 100 levels |
 | **[re://battlegrounds](https://rennko.tech/projects/rebg)** | A Tokyo Ghoul battleground on Roblox (beta) |
