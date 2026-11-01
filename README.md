@@ -15,7 +15,7 @@ High school developer in Texas. I build AI software, a browser, developer tools,
 | **[Animedle](https://playanimedle.web.app)** | Guess the anime character. Daily, ranked, 1v1 |
 | **[AniRadar](https://aniradar.web.app)** | Find your next anime obsession |
 | **[VRK](https://rennko.tech/projects/vrk)** | A private browser with ad, tracker and scam blocking, plus Tor tabs |
-| **[Pong Rivals](https://pong-rivals-vk.web.app)** · [page](https://rennko.tech/projects/pong-rivals) | Pong with a twist (public beta) |
+| **[Pixel Conquest](https://pixelconquest.web.app)** · [code](https://github.com/learningnihongo934-byte/PixelConquest) | Real-time pixel-art world conquest on a real world map. 20 structures, nukes, alliances. Play friends and AI |
 | **[rat.audio](https://rat-audio.web.app)** · [page](https://rennko.tech/projects/rat-audio) | Paste a script and hear it narrated in seconds by Kokoro-82M, running right in your browser (public beta) |
 | **[Pixeter](https://pixeter.app)** · [page](https://rennko.tech/projects/pixeter) | Pixel art and animation studio in your browser. Claude Code can draw with you, live |
 | **[Porthole](https://github.com/learningnihongo934-byte/porthole)** · [page](https://rennko.tech/projects/porthole) | Let a normal ChatGPT chat use your Mac's files and terminal, like Claude Code. You approve every change |
