@@ -22,6 +22,7 @@ High school developer in Texas. I build AI software, a browser, developer tools,
 | **[DripWriter](https://learningnihongo934-byte.github.io/dripwriter/)** · [code](https://github.com/learningnihongo934-byte/dripwriter) | Types your text into any app, one keystroke at a time. Background typing, mash mode, schedules and breaks |
 | **[Indie Dev Board](https://indiedevboard.web.app)** · [code](https://github.com/learningnihongo934-byte/indiedevboard) | A live showcase board where solo devs and indie hackers post their projects |
 | **[Balorge](https://balorge.web.app)** · [page](https://rennko.tech/projects/balorge) | Build a ball. Forge a weapon. Beat 100 levels |
+| **[DeskPals](https://github.com/learningnihongo934-byte/DeskPals)** · [page](https://rennko.tech/projects/deskpals) | A pixel pet for your Mac that walks on your windows and reacts to clicks, typing and new windows |
 | **[re://battlegrounds](https://rennko.tech/projects/rebg)** | A Tokyo Ghoul battleground on Roblox (beta) |
 
 ## Find me
