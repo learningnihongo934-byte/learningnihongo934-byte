@@ -26,6 +26,7 @@ High school developer in Texas. I build AI software, a browser, developer tools,
 | **[Balorge](https://balorge.web.app)** · [page](https://rennko.tech/projects/balorge) | Build a ball. Forge a weapon. Beat 100 levels |
 | **[DeskPals](https://github.com/learningnihongo934-byte/DeskPals)** · [page](https://rennko.tech/projects/deskpals) | A pixel pet for your Mac that walks on your windows and reacts to clicks, typing and new windows |
 | **[Squiggle](https://squiggle.rennko.tech)** · [code](https://github.com/learningnihongo934-byte/Squiggle) | Paint on a big sheet of paper and it plays back as music. Higher marks are higher notes, and you pick the instrument |
+| **[Kawillion](https://kawillion.rennko.tech)** · [code](https://github.com/learningnihongo934-byte/Kawillion) | Daily anime trivia in pixel art. Seven prompts, one answer each, and rarer answers climb you higher up a tower of anime worlds |
 | **[re://battlegrounds](https://rennko.tech/projects/rebg)** | A Tokyo Ghoul battleground on Roblox (beta) |
 
 ## Find me
