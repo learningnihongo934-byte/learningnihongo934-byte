@@ -25,6 +25,7 @@ High school developer in Texas. I build AI software, a browser, developer tools,
 | **[Indie Dev Board](https://indiedevboard.web.app)** · [code](https://github.com/learningnihongo934-byte/indiedevboard) | A live showcase board where solo devs and indie hackers post their projects |
 | **[Balorge](https://balorge.web.app)** · [page](https://rennko.tech/projects/balorge) | Build a ball. Forge a weapon. Beat 100 levels |
 | **[DeskPals](https://github.com/learningnihongo934-byte/DeskPals)** · [page](https://rennko.tech/projects/deskpals) | A pixel pet for your Mac that walks on your windows and reacts to clicks, typing and new windows |
+| **[Tilt](https://github.com/learningnihongo934-byte/Tilt)** · [page](https://rennko.tech/projects/tilt) | Rotate your Mac's screen from the menu bar so you can use it lying down. Works on the built-in display |
 | **[Squiggle](https://squiggle.rennko.tech)** · [code](https://github.com/learningnihongo934-byte/Squiggle) | Paint on a big sheet of paper and it plays back as music. Higher marks are higher notes, and you pick the instrument |
 | **[Kawillion](https://kawillion.rennko.tech)** · [code](https://github.com/learningnihongo934-byte/Kawillion) | Daily anime trivia in pixel art. Seven prompts, one answer each, and rarer answers climb you higher up a tower of anime worlds |
 | **[Stackbound](https://stackbound.rennko.tech)** · [code](https://github.com/learningnihongo934-byte/Stackbound) | A creature card game where 32×32 pixel cards come alive as voxel toys: stack them, flank them, fuse them |
