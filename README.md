@@ -8,6 +8,7 @@ High school developer in Texas. I build AI software, a browser, developer tools,
 
 | | |
 |---|---|
+| **[Once](https://once.rennko.tech)** · [code](https://github.com/learningnihongo934-byte/Once) | A little programming language that reads like English. Shapes move, bounce, make sounds and listen to the keyboard. Runs in the browser, the terminal and VS Code |
 | **[Rennko Cloud](https://cloud.rennko.tech)** · [code](https://github.com/learningnihongo934-byte/RennkoCloud) | A free, offline-first Firebase alternative: auth, a realtime database, storage and hosting at your-app.rennko.tech |
 | **[Mnemo](https://mnemoai.web.app)** · [code](https://github.com/learningnihongo934-byte/mnemo) | Raise your own AI from scratch: it trains its own language model on your computer and grows from 12M to 1B+ parameters |
 | **[Chroni](https://chroni.web.app)** · [code](https://github.com/learningnihongo934-byte/chroni) | Use Claude Code longer on the same plan by trimming wasted tokens |
