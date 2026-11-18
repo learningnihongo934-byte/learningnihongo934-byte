@@ -38,7 +38,7 @@ High school developer in Texas. I build AI software, a browser, developer tools,
 | **[Stackbound](https://stackbound.rennko.tech)** · [code](https://github.com/learningnihongo934-byte/Stackbound) | A creature card game where pixel cards come alive as voxel toys: stack, flank and fuse them in a campaign or against a friend by room code |
 | **[Beatsqare](https://beatsqare.rennko.tech)** · [code](https://github.com/learningnihongo934-byte/Beatsqare) | A four-sided rhythm game: snap the ball to the side each note hits, then build your own charts on any song |
 | **[Hoop Roll](https://hooproll.rennko.tech)** · [code](https://github.com/learningnihongo934-byte/HoopRoll) | Open NBA player packs, pull legends and stars, and sim a season to chase the title |
-| **[Lobby](https://lobby.rennko.tech)** · [code](https://github.com/learningnihongo934-byte/Lobby) | Ad-free stat tracker for Valorant, Fortnite and Roblox: your numbers against your rank, coach notes, session logs and live player graphs |
+| **[Lobby](https://lobby.rennko.tech)** · [code](https://github.com/learningnihongo934-byte/Lobby) | Ad-free Roblox stats: player activity, rarest badges and limiteds, plus live player graphs and server health for any experience |
 | **[Proportio](https://proportio.rennko.tech)** · [code](https://github.com/learningnihongo934-byte/Proportio) | Score a face out of 10 on proportion and symmetry: thirds, fifths, golden ratios, eye spacing and jaw, drawn on the photo. Runs in your browser, nothing uploaded |
 | **[re://battlegrounds](https://rennko.tech/projects/rebg)** | A Tokyo Ghoul battleground on Roblox (beta) |
 
